@@ -8083,7 +8083,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>PROC_0</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -12524,7 +12524,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A5</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -12840,7 +12840,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A6</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -12876,7 +12876,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A7</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -12912,7 +12912,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A8</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -14273,7 +14273,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>PROC_1</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -14962,7 +14962,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A1</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -14998,7 +14998,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A2</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15034,7 +15034,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A3</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15070,7 +15070,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A4</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15106,7 +15106,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A13</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15142,7 +15142,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A14</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15178,7 +15178,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A15</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15214,7 +15214,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A16</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15250,7 +15250,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A9</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15286,7 +15286,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A10</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15322,7 +15322,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A11</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15358,7 +15358,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_A12</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15394,7 +15394,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B5</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15430,7 +15430,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B6</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15466,7 +15466,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B7</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15502,7 +15502,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B8</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15538,7 +15538,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B1</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15574,7 +15574,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B2</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15610,7 +15610,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B3</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15646,7 +15646,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B4</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15682,7 +15682,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B13</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15718,7 +15718,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B14</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15754,7 +15754,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B15</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15790,7 +15790,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B16</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15826,7 +15826,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B9</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15862,7 +15862,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B10</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15898,7 +15898,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B11</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
@@ -15934,7 +15934,7 @@
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
-		<default></default>
+		<default>DIMM_B12</default>
 	</attribute>
 	<attribute>
 		<id>MODEL</id>
